@@ -1,0 +1,19 @@
+{
+  "name": "tohacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s1iqbal/TOHacks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s1iqbal/TOHacks/issues"
+  },
+  "homepage": "https://github.com/s1iqbal/TOHacks#readme"
+}
